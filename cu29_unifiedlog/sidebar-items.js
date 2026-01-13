@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["MAIN_MAGIC","SECTION_HEADER_COMPACT_SIZE","SECTION_MAGIC"],"enum":["AllocatedSection"],"fn":["stream_write"],"mod":["memmap"],"struct":["MainHeader","SectionHandle","SectionHeader","UnifiedLogStatus"],"trait":["SectionStorage","UnifiedLogRead","UnifiedLogWrite"]};
